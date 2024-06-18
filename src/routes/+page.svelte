@@ -14,24 +14,12 @@
 
     <h3>Premi</h3>
     <PremiList />
+
+    <div class="">
+        <h3>Informazioni</h3>
+        <p>Per ritirare i premi inviare una mail a lotteria@prolocovignolafalesina.it oppure telefonare al numero +39 348 237 9237</p>
+    </div>
 </div>
-<h1 class="text-4xl text-center py-6">Sito in costruzione...</h1>
-
-<!-- <h2>Menù</h2>
-<p>Il menù sarà disponibile a breve</p>
-
-<h2>Programma</h2>
-<p>Il programma sarà disponibile a breve</p>
-
-<h2>Contatti</h2>
-<p>Per informazioni contattare:</p>
-<ul>
-    <li>Paolo: 333 1234567</li>
-    <li>Luca: 333 1234567</li>
-</ul> -->
-
-<!-- <h2>Informazioni</h2> -->
-
 
 
 <style lang="postcss">
