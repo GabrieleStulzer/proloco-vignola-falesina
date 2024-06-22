@@ -9,7 +9,7 @@
         {id: "7", biglietto: "2930", descrizione:	"Buono carburante valore 200 euro offerto da Gandini Luigi Edilizia"},
         {id: "8", biglietto: "3558", descrizione:	"Buono spesa SAIT valore 150 euro offerto da Zampedri Lorenzo Scavi"},
         {id: "9", biglietto: "1876", descrizione:	"Cena per 4 persone offerta da Hotel Compet"},
-        {id: "10", biglietto: "0229", descrizione:	"Due piumini anallergenici offerti da Bioflex Materassi"},
+        {id: "10", biglietto: "0299", descrizione:	"Due piumini anallergenici offerti da Bioflex Materassi"},
         {id: "11", biglietto: "3515", descrizione:	"Kit elettroutensile spazzolatrice offerto da Fratelli Lasta"},
         {id: "12", biglietto: "7270", descrizione:	"Buono Carburante valore 100 euro offerto da Paolo Gadler Lavorazioni Boschive"},
         {id: "13", biglietto: "1747", descrizione:	"Buono spesa SAIT valore 100 euro offerto da Pegoretti Legnami s.r.l."},

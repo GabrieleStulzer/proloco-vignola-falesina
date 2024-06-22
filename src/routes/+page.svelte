@@ -18,6 +18,7 @@
     <div class="">
         <h3>Informazioni</h3>
         <p>Per ritirare i premi inviare una mail a lotteria@prolocovignolafalesina.it oppure telefonare al numero +39 348 237 9237</p>
+        <p>Il ritiro dei premi va effettuato entro 30 giorni dall'estrazione</p>
     </div>
 </div>
 
